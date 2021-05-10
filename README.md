@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and Web development.
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on my project Entrc
-- 📫 How to reach me www.jakubwawak.wordpress.com
+- 📫 How to reach me www.jakubwawak.wordpress.com / www.mimomnie.wordpress.com / kubawawak@gmail.com
 
 <!---
 wjakew/wjakew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
