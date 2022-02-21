@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wjakew
-- 👀 I’m interested in Java and Web development.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on my project Entrc
+- 👀 I’m interested programming useful apps.
+- 🌱 I’m currently learning JS, React and Node.
+- 💞️ I’m looking to collaborate on my project trackAPI / Entrc.
 - 📫 How to reach me www.jakubwawak.wordpress.com / www.mimomnie.wordpress.com / kubawawak@gmail.com
 
 <!---
