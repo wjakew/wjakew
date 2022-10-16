@@ -6,6 +6,7 @@ System Administrator / Programmer
 
 * 🌍  I'm based in Wrocław
 * ✉️  You can contact me at [kubawawak@gmail.com](mailto:kubawawak@gmail.com )
+* Currently working as System Administrator.
 
 ### Skills
 
