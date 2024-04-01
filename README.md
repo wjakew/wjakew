@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Security Administrator / Programmer
 ---------------------------------
 
-* 🌍  I'm based in Wrocław
+* 🌍  I'm based in Warsaw.
 * ✉️  You can contact me at [kubawawak@gmail.com](mailto:kubawawak@gmail.com )
-* Currently working as System Administrator.
+* Currently working as IT Security Administrator.
 
 ### Skills
 
