@@ -1,5 +1,5 @@
-# IT Security Administrator/Programmer
-🌍 I'm based in Warsaw.<br>* ✉️  You can contact me at [kubawawak@gmail.com](mailto:kubawawak@gmail.com )<br>* Currently working as IT Security Administrator.
+# Senior IT Security Administrator/Programmer/Architect
+🌍 I'm based in Warsaw.<br>* ✉️  You can contact me at [kubawawak@gmail.com](mailto:kubawawak@gmail.com )<br>* Currently working as Senior IT Security Administrator.
 
 
 # 💻 Tech Stack:
